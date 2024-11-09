@@ -1,6 +1,8 @@
 # MSDM5058 Tutorial Files
 
-Syllabus (Spring 2021-2022)
+(Known issue: SVG diagrams in notebook cannot be rendered in Github. Please download for viewing purposes)
+
+Syllabus (Spring 2021-2022, Prof. LI, Sai Ping)
 
 - Week 1 - Probability and Indicator
 - Week 2 - Pattern Recognition/Decision Theory
